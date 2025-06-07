@@ -38,6 +38,8 @@ Assumptions:
 - All source data includes a `Facility` column and aligns with names in the template
 - User provides a valid **Groq API key** when prompted
 
+
+
 ---
 
 Setup Instructions:
@@ -45,3 +47,9 @@ Setup Instructions:
 1. Install dependencies:
    ```bash
    pip install pandas openpyxl fuzzywuzzy python-Levenshtein groq
+
+
+
+
+
+Google Colab: https://colab.research.google.com/drive/1T-ZFfXr7JlTdft4kjYpXdkMKc_ELbzwE?usp=drive_link
